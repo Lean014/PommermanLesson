@@ -101,3 +101,5 @@ class MyAgent(BaseAgent):
 
         # Note that this is already a boolean (so no need for if statements)
         return board[tuple(new_location)] == Item.Passage.value
+
+        # testing if i undersatnd git now
